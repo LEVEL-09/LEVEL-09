@@ -7,6 +7,6 @@
 ### Main skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,git,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=python,c,bash,git,vim,linux" />
   </a>
 </p>
